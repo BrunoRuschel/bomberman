@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="again" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/again" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/again" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c99" />
+			<Add option="-m64" />
+			<Add option="-DPLATFORM_DESKTOP" />
+			<Add directory="../../../../../raylib/raylib/src" />
+			<Add directory="../../../../../raylib/raylib/src/external/glfw/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-static" />
+			<Add option="-m64" />
+			<Add option="-lgdi32" />
+			<Add option="-lwinmm" />
+		</Linker>
+		<Unit filename="../../../../../raylib/raylib/src/raudio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../raylib/raylib/src/raylib.h" />
+		<Unit filename="../../../../../raylib/raylib/src/rcore.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../raylib/raylib/src/rglfw.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../raylib/raylib/src/rmodels.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../raylib/raylib/src/rshapes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../raylib/raylib/src/rtext.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../raylib/raylib/src/rtextures.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../raylib/raylib/src/utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

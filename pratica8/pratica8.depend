@@ -1,0 +1,921 @@
+# depslib dependency file v1.0
+1659740452 source:c:\raylib\raylib\src\raudio.c
+	"raudio.h"
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	<windows.h>
+	<objbase.h>
+	<mmreg.h>
+	<mmsystem.h>
+	"propidl.h"
+	"external/miniaudio.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"external/stb_vorbis.h"
+	"external/jar_xm.h"
+	"external/jar_mod.h"
+	"external/dr_wav.h"
+	"external/dr_mp3.h"
+	"external/dr_flac.h"
+
+1659740350 c:\raylib\raylib\src\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1659358520 c:\raylib\raylib\src\config.h
+
+1659471570 c:\raylib\raylib\src\utils.h
+	<stdio.h>
+	<android/asset_manager.h>
+
+1659476132 c:\raylib\raylib\src\external\miniaudio.h
+	"miniaudio.h"
+	"miniaudio.h"
+	"extras/stb_vorbis.c"
+	"miniaudio.h"
+	"extras/stb_vorbis.c"
+	<stddef.h>
+	<stdint.h>
+	<pthread.h>
+	<stdalign.h>
+	<stdarg.h>
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdarg.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	<float.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<sched.h>
+	<sys/time.h>
+	<pthread.h>
+	<sys/stat.h>
+	<emscripten/emscripten.h>
+	<stdint.h>
+	<immintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<errno.h>
+	<stdint.h>
+	<intrin.h>
+	<objbase.h>
+	<mmreg.h>
+	<mmsystem.h>
+	<mach/mach_time.h>
+	<sys/types.h>
+	<unistd.h>
+	<dlfcn.h>
+	<audioclient.h>
+	<mmdeviceapi.h>
+	<mmdeviceapi.h>
+	<poll.h>
+	<sys/eventfd.h>
+	<alsa/asoundlib.h>
+	<errno.h>
+	<pulse/pulseaudio.h>
+	<jack/jack.h>
+	<TargetConditionals.h>
+	<CoreAudio/CoreAudio.h>
+	<AVFoundation/AVFoundation.h>
+	<AudioToolbox/AudioToolbox.h>
+	<fcntl.h>
+	<sys/audioio.h>
+	<sys/soundcard.h>
+	<fcntl.h>
+	<poll.h>
+	<errno.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/ioctl.h>
+	<sys/audioio.h>
+	<sys/param.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/soundcard.h>
+	<SLES/OpenSLES.h>
+	<SLES/OpenSLES_Android.h>
+	<emscripten/emscripten.h>
+	<stddef.h>
+	<stddef.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<wchar.h>
+	<assert.h>
+	<errno.h>
+	<endian.h>
+	<stdlib.h>
+	<string.h>
+	<smmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<assert.h>
+	<intrin.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<intrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+
+1659110586 c:\raylib\raylib\src\external\stb_vorbis.h
+	<stdio.h>
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<malloc.h>
+	<alloca.h>
+	<limits.h>
+	<crtdbg.h>
+
+1639694524 c:\raylib\raylib\src\external\jar_xm.h
+	<stdint.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	<stdio.h>
+	"raylib.h"
+
+1627073188 c:\raylib\raylib\src\external\jar_mod.h
+	<stdio.h>
+	<stdlib.h>
+
+1647193542 c:\raylib\raylib\src\external\dr_wav.h
+	"dr_wav.h"
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<wchar.h>
+	<assert.h>
+	<errno.h>
+
+1633633582 c:\raylib\raylib\src\external\dr_mp3.h
+	"dr_mp3.h"
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<intrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<math.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+
+1647193542 c:\raylib\raylib\src\external\dr_flac.h
+	"dr_flac.h"
+	<stddef.h>
+	<endian.h>
+	<stdlib.h>
+	<string.h>
+	<smmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<assert.h>
+	<intrin.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+
+1660440450 source:c:\raylib\raylib\src\rcore.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	"raymath.h"
+	"rgestures.h"
+	"rcamera.h"
+	"external/msf_gif.h"
+	"external/sinfl.h"
+	"external/sdefl.h"
+	<unistd.h>
+	<sys/syslimits.h>
+	<mach-o/dyld.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<sys/stat.h>
+	"external/dirent.h"
+	<dirent.h>
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	"GLFW/glfw3.h"
+	"GLFW/glfw3native.h"
+	<sys/time.h>
+	"GLFW/glfw3native.h"
+	<unistd.h>
+	"GLFW/glfw3native.h"
+	<android/window.h>
+	<android_native_app_glue.h>
+	<jni.h>
+	<EGL/egl.h>
+	<fcntl.h>
+	<unistd.h>
+	<termios.h>
+	<pthread.h>
+	<dirent.h>
+	<sys/ioctl.h>
+	<linux/kd.h>
+	<linux/input.h>
+	<linux/joystick.h>
+	"bcm_host.h"
+	<gbm.h>
+	<xf86drm.h>
+	<xf86drmMode.h>
+	"EGL/egl.h"
+	"EGL/eglext.h"
+	"GLFW/glfw3.h"
+	<sys/time.h>
+	<emscripten/emscripten.h>
+	<emscripten/html5.h>
+
+1660440874 c:\raylib\raylib\src\rlgl.h
+	<stdbool.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	"external/glad.h"
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1647193542 c:\raylib\raylib\src\external\glad.h
+	<winapifamily.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1659471700 c:\raylib\raylib\src\raymath.h
+	<math.h>
+
+1659471570 c:\raylib\raylib\src\rgestures.h
+	<stdbool.h>
+	<sys/time.h>
+	<time.h>
+	<math.h>
+	<mach/clock.h>
+	<mach/mach.h>
+
+1659471570 c:\raylib\raylib\src\rcamera.h
+	<math.h>
+
+1633633582 c:\raylib\raylib\src\external\msf_gif.h
+	"msf_gif.h"
+	<stdint.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<intrin.h>
+	<emmintrin.h>
+
+1652901832 c:\raylib\raylib\src\external\sinfl.h
+	<string.h>
+	<assert.h>
+	<emmintrin.h>
+	<arm_neon.h>
+
+1652901832 c:\raylib\raylib\src\external\sdefl.h
+	<assert.h>
+	<string.h>
+	<limits.h>
+
+1627073188 c:\raylib\raylib\src\external\dirent.h
+	<io.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\include\glfw\glfw3native.h
+	<ApplicationServices/ApplicationServices.h>
+	<X11/Xlib.h>
+	<X11/extensions/Xrandr.h>
+	<wayland-client.h>
+	<GL/glx.h>
+	<EGL/egl.h>
+	<GL/osmesa.h>
+
+1659110586 source:c:\raylib\raylib\src\rglfw.c
+	"external/glfw/src/context.c"
+	"external/glfw/src/init.c"
+	"external/glfw/src/input.c"
+	"external/glfw/src/monitor.c"
+	"external/glfw/src/vulkan.c"
+	"external/glfw/src/window.c"
+	"external/glfw/src/win32_init.c"
+	"external/glfw/src/win32_joystick.c"
+	"external/glfw/src/win32_monitor.c"
+	"external/glfw/src/win32_time.c"
+	"external/glfw/src/win32_thread.c"
+	"external/glfw/src/win32_window.c"
+	"external/glfw/src/wgl_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/wl_init.c"
+	"external/glfw/src/wl_monitor.c"
+	"external/glfw/src/wl_window.c"
+	"external/glfw/src/wayland-pointer-constraints-unstable-v1-client-protocol.c"
+	"external/glfw/src/wayland-relative-pointer-unstable-v1-client-protocol.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/linux_joystick.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/null_joystick.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/cocoa_init.m"
+	"external/glfw/src/cocoa_joystick.m"
+	"external/glfw/src/cocoa_monitor.m"
+	"external/glfw/src/cocoa_window.m"
+	"external/glfw/src/cocoa_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/nsgl_context.m"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\context.c
+	"internal.h"
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\internal.h
+	"glfw_config.h"
+	"../include/GLFW/glfw3.h"
+	"cocoa_platform.h"
+	"win32_platform.h"
+	"x11_platform.h"
+	"wl_platform.h"
+	"null_platform.h"
+	"egl_context.h"
+	"osmesa_context.h"
+
+1647193542 c:\raylib\raylib\src\external\glfw\src\cocoa_platform.h
+	<stdint.h>
+	<dlfcn.h>
+	<Carbon/Carbon.h>
+	"posix_thread.h"
+	"cocoa_joystick.h"
+	"nsgl_context.h"
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\posix_thread.h
+	<pthread.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\cocoa_joystick.h
+	<IOKit/IOKitLib.h>
+	<IOKit/IOCFPlugIn.h>
+	<IOKit/hid/IOHIDLib.h>
+	<IOKit/hid/IOHIDKeys.h>
+
+1647193542 c:\raylib\raylib\src\external\glfw\src\nsgl_context.h
+	<stdatomic.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\win32_platform.h
+	<wctype.h>
+	<windows.h>
+	<dinput.h>
+	<xinput.h>
+	<dbt.h>
+	<dwmapi.h>
+	"win32_joystick.h"
+	"wgl_context.h"
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\win32_joystick.h
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\wgl_context.h
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\x11_platform.h
+	<unistd.h>
+	<signal.h>
+	<stdint.h>
+	<dlfcn.h>
+	<X11/Xlib.h>
+	<X11/keysym.h>
+	<X11/Xatom.h>
+	<X11/Xresource.h>
+	<X11/Xcursor/Xcursor.h>
+	<X11/extensions/Xrandr.h>
+	<X11/XKBlib.h>
+	<X11/extensions/Xinerama.h>
+	<X11/extensions/XInput2.h>
+	<X11/extensions/shape.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"xkb_unicode.h"
+	"glx_context.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\posix_time.h
+	<stdint.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\xkb_unicode.h
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\glx_context.h
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\linux_joystick.h
+	<linux/input.h>
+	<linux/limits.h>
+	<regex.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\null_joystick.h
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\wl_platform.h
+	<wayland-client.h>
+	<xkbcommon/xkbcommon.h>
+	<xkbcommon/xkbcommon-compose.h>
+	<dlfcn.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+	"xkb_unicode.h"
+	"wayland-xdg-shell-client-protocol.h"
+	"wayland-xdg-decoration-client-protocol.h"
+	"wayland-viewporter-client-protocol.h"
+	"wayland-relative-pointer-unstable-v1-client-protocol.h"
+	"wayland-pointer-constraints-unstable-v1-client-protocol.h"
+	"wayland-idle-inhibit-unstable-v1-client-protocol.h"
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\null_platform.h
+	<dlfcn.h>
+	"posix_time.h"
+	"posix_thread.h"
+	"null_joystick.h"
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\egl_context.h
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\osmesa_context.h
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\init.c
+	"internal.h"
+	"mappings.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<assert.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\mappings.h
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\input.c
+	"internal.h"
+	<assert.h>
+	<float.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\monitor.c
+	"internal.h"
+	<assert.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\vulkan.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\window.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+	<float.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\win32_init.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\win32_joystick.c
+	"internal.h"
+	<stdio.h>
+	<math.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\win32_monitor.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<malloc.h>
+	<wchar.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\win32_time.c
+	"internal.h"
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\win32_thread.c
+	"internal.h"
+	<assert.h>
+
+1647193542 c:\raylib\raylib\src\external\glfw\src\win32_window.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<windowsx.h>
+	<shellapi.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\wgl_context.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+	<assert.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\egl_context.c
+	"internal.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\osmesa_context.c
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"internal.h"
+
+1647193542 c:\raylib\raylib\src\external\glfw\src\wl_init.c
+	"internal.h"
+	<assert.h>
+	<errno.h>
+	<limits.h>
+	<linux/input.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<unistd.h>
+	<time.h>
+	<wayland-client.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\wl_monitor.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\wl_window.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<poll.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\x11_init.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<locale.h>
+	<unistd.h>
+
+1647193542 c:\raylib\raylib\src\external\glfw\src\x11_monitor.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\x11_window.c
+	"internal.h"
+	<X11/cursorfont.h>
+	<X11/Xmd.h>
+	<sys/select.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<errno.h>
+	<assert.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\glx_context.c
+	"internal.h"
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1647193542 c:\raylib\raylib\src\external\glfw\src\linux_joystick.c
+	"internal.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/inotify.h>
+	<fcntl.h>
+	<errno.h>
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\posix_thread.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\posix_time.c
+	"internal.h"
+	<unistd.h>
+	<sys/time.h>
+	<time.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\xkb_unicode.c
+	"internal.h"
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\null_joystick.c
+	"internal.h"
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\cocoa_init.m
+	"internal.h"
+	<sys/param.h>
+	<crt_externs.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\cocoa_joystick.m
+	"internal.h"
+	<unistd.h>
+	<ctype.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_error.h>
+	<CoreFoundation/CoreFoundation.h>
+	<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\cocoa_monitor.m
+	"internal.h"
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+	<IOKit/graphics/IOGraphicsLib.h>
+	<ApplicationServices/ApplicationServices.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\cocoa_window.m
+	"internal.h"
+	<float.h>
+	<string.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\cocoa_time.c
+	"internal.h"
+	<mach/mach_time.h>
+
+1635780036 c:\raylib\raylib\src\external\glfw\src\nsgl_context.m
+	"internal.h"
+	<unistd.h>
+	<math.h>
+
+1660441318 source:c:\raylib\raylib\src\rmodels.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	"raymath.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"external/tinyobj_loader_c.h"
+	"external/cgltf.h"
+	"external/vox_loader.h"
+	"external/par_shapes.h"
+	<direct.h>
+	<unistd.h>
+
+1627073188 c:\raylib\raylib\src\external\tinyobj_loader_c.h
+	<stdio.h>
+	<assert.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+
+1659477912 c:\raylib\raylib\src\external\cgltf.h
+	<stddef.h>
+	<stdint.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	<stdlib.h>
+	<assert.h>
+
+1638927594 c:\raylib\raylib\src\external\vox_loader.h
+	"vox_loader.h"
+	<string.h>
+	<stdlib.h>
+
+1629066072 c:\raylib\raylib\src\external\par_shapes.h
+	<stdint.h>
+	<stdbool.h>
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+	<float.h>
+	<string.h>
+	<math.h>
+	<errno.h>
+
+1660440874 source:c:\raylib\raylib\src\rshapes.c
+	"raylib.h"
+	"config.h"
+	"rlgl.h"
+	<math.h>
+	<float.h>
+
+1660440450 source:c:\raylib\raylib\src\rtext.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+	"external/stb_rect_pack.h"
+	"external/stb_truetype.h"
+
+1647193542 c:\raylib\raylib\src\external\stb_rect_pack.h
+	<stdlib.h>
+	<assert.h>
+
+1633633582 c:\raylib\raylib\src\external\stb_truetype.h
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<string.h>
+
+1660440874 source:c:\raylib\raylib\src\rtextures.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	"external/stb_image.h"
+	"external/qoi.h"
+	"external/stb_image_write.h"
+	"external/stb_image_resize.h"
+
+1633633582 c:\raylib\raylib\src\external\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1643342842 c:\raylib\raylib\src\external\qoi.h
+	"qoi.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1633633582 c:\raylib\raylib\src\external\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1633633582 c:\raylib\raylib\src\external\stb_image_resize.h
+	"stb_image_resize.h"
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1659411276 source:c:\raylib\raylib\src\utils.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	<errno.h>
+	<android/log.h>
+	<android/asset_manager.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+
+1679702991 source:c:\users\bruno\onedrive\Área de trabalho\pratica8\main.c
+	"raylib.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1677359666 source:c:\users\bruno\onedrive\Área de trabalho\jogo+.c
+	"raylib.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
